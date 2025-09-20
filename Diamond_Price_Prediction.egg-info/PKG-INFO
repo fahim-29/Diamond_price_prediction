@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Diamond_Price_Prediction
+Version: 0.0.1
+Author: Fahim_Ahmad
+Author-email: ahmadfahim296@gmail.com
+Requires-Dist: pandas
+Requires-Dist: sklearn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
